@@ -16,7 +16,6 @@ I'm a dedicated student at 42 Barcelona, where I've acquired skills in programmi
 [![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Bash icon](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-[![Markdown icon](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 [![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 
 ## Featured Projects 🌟
