@@ -1,10 +1,11 @@
 # Hello There! 👋
 
-I'm a passionate student at 42 Barcelona 🇪🇸. I'm enthusiastic about programming and committed to learning and growing as a developer.
+Welcome to my personal Github, Here you will see my trajectory throughout the 42 Cursus.
 
 ## About Me 🚀
 
-I'm a dedicated student at 42 Barcelona, where I've acquired skills in programming, problem-solving, and collaborating on software projects. I'm always eager to learn new technologies and take on exciting challenges in the world of development.
+I'm enthusiastic about programming and committed to learning and growing as a developer.
+Currently student at 42 Barcelona 🇪🇸, where I've acquired skills in programming, problem-solving, and collaborating on software projects. I'm always eager to learn new technologies and take on exciting challenges in the world of development.
 
 ## Current Skills
 
