@@ -23,27 +23,18 @@ I'm a dedicated student at 42 Barcelona, where I've acquired skills in programmi
 
 Here, you can find some of my projects from 42 School:
 
- <details>
-  
-  <summary><h3>42 Barcelona Projects 🖥 </h3></summary>
-  
-  <h3>[Cursus 🚧](https://github.com/TuTaRdrgZ/42-Cursus)</h3>
+<details>
+  <summary><h3>42 Barcelona Projects 🖥</h3></summary>
+
+  - [**Cursus 🚧**](https://github.com/TuTaRdrgZ/42-Cursus)
     - [libft](https://github.com/TuTaRdrgZ/42-Cursus/libft)
     - [ft_printf](https://github.com/TuTaRdrgZ/42-Cursus/ft_printf)
     - [get_next_line](https://github.com/TuTaRdrgZ/42-Cursus/get_next_line)
 
-  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/TuTaRdrgZ/C-reloaded">
-              C Reloaded 🔃
-       </a>
-  </h3>
-  
-  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/TuTaRdrgZ/42piscine">
-              Piscine 🏊‍♂️
-       </a>
-  </h3>
-  
+  - [**C Reloaded 🔃**](https://github.com/TuTaRdrgZ/C-reloaded)
+
+  - [**Piscine 🏊‍♂️**](https://github.com/TuTaRdrgZ/42piscine)
+
 </details>
 
 ## Contact 📬
