@@ -27,14 +27,14 @@ Here, you can find some of my projects from 42 School:
 <details>
   <summary><h3>42 Barcelona Projects 🖥</h3></summary>
 
-  - [**Cursus 🚧**](https://github.com/TuTaRdrgZ/42-Cursus)
+  - [**42-Cursus**](https://github.com/TuTaRdrgZ/42-Cursus)
     - [libft](https://github.com/TuTaRdrgZ/42-Cursus/tree/master/libft)
     - [ft_printf](https://github.com/TuTaRdrgZ/42-Cursus/tree/master/ft_printf)
     - [get_next_line](https://github.com/TuTaRdrgZ/42-Cursus/tree/master/get_next_line)
 
-  - [**C Reloaded 🔃**](https://github.com/TuTaRdrgZ/C-reloaded)
+  - [**C Reloaded**](https://github.com/TuTaRdrgZ/C-reloaded)
 
-  - [**Piscine 🏊‍♂️**](https://github.com/TuTaRdrgZ/42piscine)
+  - [**Piscine**](https://github.com/TuTaRdrgZ/42piscine)
 
 </details>
 
