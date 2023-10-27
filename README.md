@@ -10,6 +10,7 @@ I'm a dedicated student at 42 Barcelona, where I've acquired skills in programmi
 
 [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 # Tools
 
