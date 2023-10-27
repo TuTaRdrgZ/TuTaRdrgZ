@@ -7,7 +7,7 @@ Welcome to my personal Github, Here you will see my trajectory throughout the 42
 I'm enthusiastic about programming and committed to learning and growing as a developer.
 Currently student at 42 Barcelona 🇪🇸, where I've acquired skills in programming, problem-solving, and collaborating on software projects. I'm always eager to learn new technologies and take on exciting challenges in the world of development.
 
-## Current Skills
+## Currently Learning
 
 [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
