@@ -27,14 +27,10 @@ Here, you can find some of my projects from 42 School:
   
   <summary><h3>42 Barcelona Projects 🖥 </h3></summary>
   
-  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/TuTaRdrgZ/42-Cursus">
-               Cursus 🚧 
-       </a>
-  </h3>
-         [libft](https://github.com/TuTaRdrgZ/42-Cursus/libft)
-         [ft_printf](https://github.com/TuTaRdrgZ/42-Cursus/ft_printf)
-         [get_next_line](https://github.com/TuTaRdrgZ/42-Cursus/get_next_line)
+  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Cursus 🚧](https://github.com/TuTaRdrgZ/42-Cursus)</h3>
+     [libft](https://github.com/TuTaRdrgZ/42-Cursus/libft)
+     [ft_printf](https://github.com/TuTaRdrgZ/42-Cursus/ft_printf)
+     [get_next_line](https://github.com/TuTaRdrgZ/42-Cursus/get_next_line)
 
   <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://github.com/TuTaRdrgZ/C-reloaded">
