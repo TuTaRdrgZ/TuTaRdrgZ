@@ -42,7 +42,7 @@ Here, you can find some of my projects from 42 School:
 
 If you're interested in collaborating on projects, have questions, or just want to connect, feel free to reach out:
 
-- Email: [bautirodr@gmail.com](mailto:bautirodri@gmail.com) 📧
+- Email: [bautirodri@gmail.com](mailto:bautirodri@gmail.com) 📧
 - 42 Email: [bautrodr@student.42barcelona.com](mailto:bautrodr@student.42barcelona.com) 📧
 
 Thank you for visiting my GitHub profile! I hope you find my projects interesting and useful. Don't hesitate to follow me and explore my work! 🚀✨
