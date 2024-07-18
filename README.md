@@ -1,4 +1,4 @@
-# Hello There! 👋
+# Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 Welcome to my personal Github. Here you will see my trajectory throughout the 42 Cursus.
 
@@ -20,21 +20,14 @@ Currently student at 42 Barcelona 🇪🇸, where I've acquired skills in progra
 [![Bash icon](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 [![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 
-## Featured Projects 🌟
+### $\textbf{\color{Red}{📊 \color {Violet} Stats}}$
 
-Here, you can find some of my projects from 42 School:
+###
 
-<details>
-  <summary><h3>42 Barcelona Projects 🖥</h3></summary>
-
-  - [**42-Cursus**](https://github.com/TuTaRdrgZ/42-Cursus)
-    - [libft](https://github.com/TuTaRdrgZ/42-Cursus/tree/master/libft)
-    - [ft_printf](https://github.com/TuTaRdrgZ/42-Cursus/tree/master/ft_printf)
-    - [get_next_line](https://github.com/TuTaRdrgZ/42-Cursus/tree/master/get_next_line)
-
-  - [**C Reloaded**](https://github.com/TuTaRdrgZ/C-reloaded)
-
-  - [**Piscine**](https://github.com/TuTaRdrgZ/42piscine)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droied4&layout=donut&theme=midnight-purple&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=droied4&theme=midnight-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D" height="220" alt="GitHub Streak" /></a>
+</div>
 
 </details>
 
