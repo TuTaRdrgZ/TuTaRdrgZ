@@ -30,12 +30,3 @@ Currently student at 42 Barcelona 🇪🇸, where I've acquired skills in progra
 </div>
 
 </details>
-
-## Contact 📬
-
-If you're interested in collaborating on projects, have questions, or just want to connect, feel free to reach out:
-
-- Personal Email: [bautirodri@gmail.com](mailto:bautirodri@gmail.com) 📧
-
-
-Thank you for visiting my GitHub profile! I hope you find my projects interesting and useful. Don't hesitate to follow me and explore my work! 🚀✨
