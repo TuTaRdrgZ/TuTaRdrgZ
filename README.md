@@ -7,9 +7,11 @@
 [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Lua icon](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
 
 # Tools
 
+[![Neovim icon](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
 [![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Bash icon](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
