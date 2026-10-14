@@ -17,9 +17,7 @@
 [![Bash icon](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 [![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tutardrgz)](https://github.com/stats-organization/github-stats-extended)
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droied4&layout=donut&theme=midnight-purple&hide_border=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutardrgz&layout=donut&theme=midnight-purple&hide_border=true"/>
 </div>
 
