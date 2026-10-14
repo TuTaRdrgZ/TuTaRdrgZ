@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutardrgz&layout=donut&theme=midnight-purple&hide_border=true"/>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=TuTaRdrgZ&include_all_commits=true&theme=dark_github"/>
   <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=TuTaRdrgZ&layout=compact&langs_count=5&theme=dark_github"/>
 </div>
 
